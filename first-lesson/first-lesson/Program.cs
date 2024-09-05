@@ -1,5 +1,5 @@
 ﻿using System;
-using FibonacciLib;
+using first_lesson.FibonacciLib;
 
 namespace first_lesson {
     class Program {

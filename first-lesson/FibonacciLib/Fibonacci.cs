@@ -1,4 +1,4 @@
-﻿namespace FibonacciLib;
+﻿namespace first_lesson.FibonacciLib;
 
 public class Fibonacci {
     public static int[] Fib(int n) {

@@ -1,6 +1,6 @@
 using NUnit.Framework;
-using FibonacciLib;
 using NUnit.Framework.Legacy;
+using first_lesson.FibonacciLib;
 
 namespace FibonacciLib.Tests;
 
